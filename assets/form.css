@@ -1,0 +1,25 @@
+@media screen and (max-width: 1024px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+  }
+
+  footer {
+    margin-top: 350px;
+  }
+
+  h1 {
+    font-size: 23px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-height: 1024px) {
+  .content {
+    height: 110vh;
+  }
+}

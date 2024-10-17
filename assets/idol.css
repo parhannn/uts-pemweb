@@ -1,0 +1,125 @@
+body {
+  background: url('img/monesy.png') no-repeat center center/cover;
+}
+
+h3 {
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+h4 {
+  padding: 10px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+.content h1 {
+  color: white;
+}
+
+.card-img-overlay h5,
+.card-img-overlay p {
+  font-size: 24px;
+}
+
+.idol-description {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.idol-description h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.idol-description p {
+  font-size: 18px;
+}
+
+.logo-card {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #4070f4;
+  border-radius: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: rgb(219, 220, 221);
+  transition: all 0.3s ease;
+}
+
+.logo-card:hover {
+  box-shadow: 0 0 10px 0 #4070f4;
+}
+
+.logo-card img {
+  max-width: 70%;
+  max-height: 70%;
+  object-fit: cover;
+}
+
+.logo-title {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.trophy-icon {
+  font-size: 1.5rem;
+}
+
+.btn-stats {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-stats:hover {
+  background-color: #0056b3;
+}
+
+.btn-stats {
+  background-color: #007bff !important;
+  color: white !important;
+  font-weight: bold !important;
+  border: none !important;
+}
+
+.btn-stats:hover {
+  background-color: #0056b3 !important;
+  color: white !important;
+}
+
+@media (max-width: 768px) {
+  .logo-card {
+    width: 180px;
+    height: 180px;
+  }
+
+  .card-img-overlay h5,
+  .card-img-overlay p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 445px) {
+  table {
+    font-size: 10px;
+  }
+
+  .card-img-overlay h5,
+  .card-img-overlay p {
+    font-size: 10px;
+  }
+
+  .trophy-icon {
+    font-size: 1rem;
+  }
+}
