@@ -20,18 +20,18 @@ Ujian Tengah Semeseter mata kuliah Pemrograman Web (IF3028) Institut Teknologi S
 
 ### Mobile View
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="width: 100%; display: flex; justify-content: space-evenly; flex-wrap: wrap; flex-direction: row;">
 
-  <div style="flex: 1; min-width: 150px; max-width: 300px;">
-    <img src="./assets/snapshots/mobile-main.png" alt="Mobile Main View" style="width: 100%;" />
+  <div style="flex: 1; margin: 10px;">
+    <img src="./assets/snapshots/mobile-main.png" alt="Mobile Main View" width="300px" />
   </div>
 
-  <div style="flex: 1; min-width: 150px; max-width: 300px;">
-    <img src="./assets/snapshots/mobile-form.png" alt="Mobile Form View" style="width: 100%;" />
+  <div style="flex: 1; margin: 10px;">
+    <img src="./assets/snapshots/mobile-form.png" alt="Mobile Form View" width="300px" />
   </div>
 
-  <div style="flex: 1; min-width: 150px; max-width: 300px;">
-    <img src="./assets/snapshots/mobile-list.png" alt="Mobile List View" style="width: 100%;" />
+  <div style="flex: 1; margin: 10px;">
+    <img src="./assets/snapshots/mobile-list.png" alt="Mobile List View" width="300px" />
   </div>
 
 </div>
