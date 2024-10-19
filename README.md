@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GIF](https://media1.tenor.com/m/m7-1HxAo6Y0AAAAC/family-guy-stewie.gif)](#)
+[![GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fvia-giphy--714102084659617349%2F&psig=AOvVaw31NCqjHtI6z1hKFU6ucJ2d&ust=1729392845133000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjA6sW4mYkDFQAAAAAdAAAAABAR)](#)
 
 </div>
 
