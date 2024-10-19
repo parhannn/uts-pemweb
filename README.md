@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%;">
+<div align="center" style="width: 300%;">
 
 [![GIF](https://media1.tenor.com/m/so0yQ7ZR5dYAAAAd/online-shopping-squatch.gif)](#)
 
