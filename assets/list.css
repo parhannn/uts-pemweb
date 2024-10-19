@@ -43,6 +43,10 @@ thead th {
     font-size: 23px;
     text-align: center;
   }
+
+  .table-wrapper {
+    max-height: 900px;
+  }
 }
 
 @media screen and (max-height: 1024px) {
