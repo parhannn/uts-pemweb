@@ -1,6 +1,6 @@
 <div align="center" style="width: 300%;">
 
-[![GIF](https://media1.tenor.com/m/so0yQ7ZR5dYAAAAd/online-shopping-squatch.gif)](#)
+[![GIF](https://media1.tenor.com/m/m7-1HxAo6Y0AAAAC/family-guy-stewie.gif)](#)
 
 </div>
 
