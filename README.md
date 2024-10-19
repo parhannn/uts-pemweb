@@ -20,9 +20,21 @@ Ujian Tengah Semeseter mata kuliah Pemrograman Web (IF3028) Institut Teknologi S
 
 ### Mobile View
 
-![Tampilan Website](./assets/snapshots/mobile-main.png)
-![Tampilan Website](./assets/snapshots/mobile-form.png)
-![Tampilan Website](./assets/snapshots/mobile-list.png)
+<div align="center" style="width: 100%; display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+
+  <div style="margin: 10px;">
+    <img src="./assets/snapshots/mobile-main.png" alt="Mobile Main View" width="300px" />
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="./assets/snapshots/mobile-form.png" alt="Mobile Form View" width="300px" />
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="./assets/snapshots/mobile-list.png" alt="Mobile List View" width="300px" />
+  </div>
+
+</div>
 
 ---
 
